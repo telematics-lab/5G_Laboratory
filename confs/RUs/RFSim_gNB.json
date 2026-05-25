@@ -1,0 +1,6 @@
+{
+    "att_tx": 0,
+    "att_rx": 0,
+    "max_rxgain": 75,
+    "max_pdschReferenceSignalPower": -27
+}

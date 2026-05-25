@@ -1,0 +1,13 @@
+{
+ "absoluteFrequencySSB": 641280,
+ "dl_absoluteFrequencyPointA": 640008,
+ "dl_frequencyBand": 78,
+ "dl_subcarrierSpacing": 1,
+ "dl_carrierBandwidth": 106,
+ "initialDLBWPlocationAndBandwidth": 28875,
+ "ul_frequencyBand": 78, 
+ "ul_absoluteFrequencyPointA": 640008,
+ "ul_subcarrierSpacing": 1,
+ "ul_carrierBandwidth": 106,
+ "initialULBWPlocationAndBandwidth": 28875
+}
